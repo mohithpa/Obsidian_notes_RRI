@@ -1,0 +1,3 @@
+- 1 solar radius = $6.96*10^{10}cm$ 
+- Sun-Earth distance = 215 $M_\odot\approx 1AU$ 
+- conversion of hydrogen to helium releases $\approx$ 0.007 $m_pc^2$  amount of energy per Hydrogen

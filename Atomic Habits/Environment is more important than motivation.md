@@ -1,0 +1,5 @@
+- Environment shapes the shapes human behavior and habit
+- Therefore set your environment properly, keep the book that you want to study in front of you before hand.
+- Every habit is context dependent.
+- Human's strongest sense is his visions(10 million sensory neurons out of 11 million are for vision) therefore a small change in what you see can lead to a big shift in what you do.
+- Therefore don't be the victim of your environment be the architect of it.

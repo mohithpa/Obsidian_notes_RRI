@@ -1,0 +1,4 @@
+- A linear graph or simply a graph G = (V,E) consists of a set of objects V = $\{ v_1, v_2....\}$ are called vertices and another set E = $\{ e_1, e_2, ....\}$ are called edges.
+- ![[Pasted image 20220522191255.png]]figure 1.1 is given below.
+- ![[Pasted image 20220522191331.png]]
+- This is in general what a graph is.

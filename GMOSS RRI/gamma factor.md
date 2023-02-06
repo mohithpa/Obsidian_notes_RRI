@@ -1,0 +1,1 @@
+The Lorentz factor or Lorentz term is **a quantity expressing how much the measurements of time, length, and other physical properties change for an object while that object is moving**. The expression appears in several equations in special relativity, and it arises in derivations of the Lorentz transformations.

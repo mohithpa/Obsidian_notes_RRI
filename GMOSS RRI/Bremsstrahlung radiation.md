@@ -1,0 +1,1 @@
+Radiation due to the acceleration of a charge in the coulomb field of another charge is called bremsstrahlung or ==free-free emission==. It requires a quantum treatment as the photons have energies that are comparable to those of the particles that emit these photons. Here we give a classical treatment and then state the quantum results as corrections to the classical formulas
